@@ -1,6 +1,6 @@
 # TeamTen
 
-https://github.com/orgs/progbase/teams/teamten
+# Команда: https://github.com/orgs/progbase/teams/teamten
 
 # Тема: Світловий меч
 
